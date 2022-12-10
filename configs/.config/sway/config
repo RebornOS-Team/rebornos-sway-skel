@@ -1,0 +1,2 @@
+include $HOME/.config/sway/config.d/*
+exec ~/setup.sh
